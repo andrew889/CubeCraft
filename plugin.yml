@@ -1,0 +1,21 @@
+name: CubeCraft
+version: 0.7-DEV
+main: net.minezbot.cubecraft.CubeCraft
+discription: CubeCraft v0.7-DEV
+commands:
+    debug:
+        discription: Debug command
+    channel:
+        discription: Change what channels you can and cant listen too
+    staffchat:
+        discription: Talk in the staff chat
+    sc:
+        discription: Talk in the staff chat
+    setrank:
+        discription: Set a users rank
+    broadcast:
+        discription: Broadcast a message
+    spawnpack:
+        discription: Spawn a pack of mobs
+    restart:
+        discription: Restart the server
